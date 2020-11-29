@@ -1,0 +1,34 @@
+p, h1, h2 {
+    font-family: "aeonik_regular", Sans-serif;
+}
+
+p {
+    text-align: justify;
+}
+
+@font-face {
+    font-family: "aeonik_regular";
+    src: url("../fonts/aeonik-light-webfont.woff") format('woff');
+}
+
+.call-to-action {
+    text-align: center;
+}
+
+.call-to-action a {
+    text-decoration: none;
+}
+
+.bolder {
+    font-weight: 900;
+}
+
+.logo {
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+p.text-align-center {
+    text-align: center;
+}
